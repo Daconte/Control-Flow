@@ -1,0 +1,14 @@
+C:\Users\EmmanuelShimizu\Desktop\control-flow\bin\Debug\net8.0\control-flow.exe
+C:\Users\EmmanuelShimizu\Desktop\control-flow\bin\Debug\net8.0\control-flow.deps.json
+C:\Users\EmmanuelShimizu\Desktop\control-flow\bin\Debug\net8.0\control-flow.runtimeconfig.json
+C:\Users\EmmanuelShimizu\Desktop\control-flow\bin\Debug\net8.0\control-flow.dll
+C:\Users\EmmanuelShimizu\Desktop\control-flow\bin\Debug\net8.0\control-flow.pdb
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.AssemblyInfoInputs.cache
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.AssemblyInfo.cs
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.dll
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\refint\control-flow.dll
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.pdb
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\control-flow.genruntimeconfig.cache
+C:\Users\EmmanuelShimizu\Desktop\control-flow\obj\Debug\net8.0\ref\control-flow.dll
